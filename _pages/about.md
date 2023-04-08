@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-## About
-
 - Geomatics & Surveying Engineer.
 
 - Interested in interesting things.
