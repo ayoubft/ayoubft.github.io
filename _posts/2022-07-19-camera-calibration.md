@@ -8,10 +8,7 @@ tags:
   - python
 ---
 
-- [Camera Calibration Theory](#camera-calibration-theory)
-  - [Why camera calibration ?](#why-camera-calibration-)
-  - [Different Classifications:](#different-classifications)
-- [References:](#references)
+In this post we will review what's camera calibration, why it's needed and how to do it.
 
 In this post we will review what's camera calibration, why it's needed and how to do it.
 
