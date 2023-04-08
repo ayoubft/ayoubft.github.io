@@ -7,4 +7,4 @@ description: Managing your sources and using them easily can be overwhelming, bu
 tags: reference-management zotero
 ---
 
-Coming soon ...
+[Coming soon ...] Managing your sources and using them easily can be overwhelming, but Zotero to the rescue.
