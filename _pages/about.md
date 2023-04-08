@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Using computers for good"
+title: "Exploring the universe and pushing boundaries with every step."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
