@@ -10,8 +10,6 @@ tags:
 
 In this post we will review what's camera calibration, why it's needed and how to do it.
 
-In this post we will review what's camera calibration, why it's needed and how to do it.
-
 ## Camera Calibration Theory
 
 ### Why camera calibration ?
