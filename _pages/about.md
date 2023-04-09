@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Exploring the universe and pushing boundaries with every step."
+title: "Exploring the universe and pushing boundaries with every step"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- Geomatics & Surveying Engineer.
+Hey there, I am Ayoub. I am :
 
-- Interested in interesting things.
-
-- Learning machine learning.
-
-- Astronomy novice.
-
-- Open to help or support in any way possible.
+- Geomatics & Surveying Engineer
+- Interested in interesting things
+- Learning machine learning
+- Astronomy novice
+- Open to help or support in any way possible
