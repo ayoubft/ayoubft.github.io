@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Exploring the universe and pushing boundaries with every step"
+title: "Exploring the universe and pushing boundaries"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
