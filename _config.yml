@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ayoub Fatihi"
   avatar           : "me2022.jpg"
-  bio              : "Geomatics and Surveying engineer"
+  bio              : "Geomatics and Surveying Engineer"
   bio2             : "Machine learning enthusiast"
   location         : "Morocco"
   employer         :
@@ -104,13 +104,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ayoubft_"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
