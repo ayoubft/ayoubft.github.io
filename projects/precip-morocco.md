@@ -1,21 +1,18 @@
 ---
 layout: archive
+title: Morocco's Precipitations Dashboard 🌧️
 ---
-
-# Morocco's Precipitations Dashboard 🌧️
 
 <!-- &nbsp; -->
 
-<a href="https://precip-morocco.herokuapp.com/" target="_blank">Project</a>
-
-[May not be accessible with `heroku` stopping free tier]
+<a href="https://precip-morocco.herokuapp.com/" target="_blank">Project</a> [May not be accessible with `heroku` stopping free tier]
 
 <a href="https://github.com/ayoubft/wm-22-project" target="_blank">Source Code</a>
 
 ### Preview:
 
 <center>
-<img src="../images/precip-morox5.gif">
+<img src="https://raw.githubusercontent.com/ayoubft/ayoubft.github.io/master/files/precip-morox5.gif">
 </center>
 
 ### Description:
