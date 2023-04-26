@@ -1,3 +1,7 @@
+---
+layout: archive
+---
+
 # Morocco's Precipitations Dashboard 🌧️
 
 <!-- &nbsp; -->
