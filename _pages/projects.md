@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Get Inspired"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /projects
+  - /get-inspired
+---
+
 ### [🌧️ Morocco's Precipitations Dashboard](projects/precip-morocco.md)
 
 Full stack application that represents a geoportal for exploration, visualization and analysis and forecasting rainfall data in Morocco.
