@@ -6,19 +6,19 @@ layout: archive
 
 <!-- &nbsp; -->
 
-## <a href="https://precip-morocco.herokuapp.com/" target="_blank">Project</a>
+<a href="https://precip-morocco.herokuapp.com/" target="_blank">Project</a>
 
 [May not be accessible with `heroku` stopping free tier]
 
-## <a href="https://github.com/ayoubft/wm-22-project" target="_blank">Source Code</a>
+<a href="https://github.com/ayoubft/wm-22-project" target="_blank">Source Code</a>
 
-## Preview:
+### Preview:
 
 <center>
-<img src="../img/precip-morox5.gif">
+<img src="../images/precip-morox5.gif">
 </center>
 
-## Description:
+### Description:
 
 This project was a part of the course of Web-Mapping (2021-22) by Prof Hicham HAJJI: Creating a geoportal of precipitations in Morocco.
 
@@ -30,6 +30,6 @@ The geoportal takes into account: Dynamic maps, Attribute and spatial SQL querie
 - 🌐 Backend: nodejs, postgresql, heroku
 - 📉 ML: python, tensorflow, keras
 
-## Collaborator :
+### Collaborator :
 
-Mehdi KECHNA
+Mehdi Kechna

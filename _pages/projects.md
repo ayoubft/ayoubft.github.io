@@ -8,7 +8,7 @@ redirect_from:
   - /get-inspired
 ---
 
-### [🌧️ Morocco's Precipitations Dashboard](projects/precip-morocco.md)
+### [🌧️ Morocco's Precipitations Dashboard](./precip-morocco)
 
 Full stack application that represents a geoportal for exploration, visualization and analysis and forecasting rainfall data in Morocco.
 
