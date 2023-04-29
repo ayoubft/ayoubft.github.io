@@ -1,4 +1,7 @@
-# [Binary Classifier] CNN U-Net for classifiying tree specie 🌳
+---
+layout: archive
+title: [Binary Classifier] CNN U-Net for classifiying tree specie 🌳
+---
 
 - <a href="https://github.com/ayoubft/CNN-rgbUAV" target="_blank">Code</a>
 
