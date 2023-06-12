@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* MSc. Eng. in Geomatics and Surveying Engineering, IAVH2, 2023
+* Dipl.-Ing. in Geomatics and Surveying Engineering, IAVH2, 2023
 
 <!-- ## Work experience
 
