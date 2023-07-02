@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-|2023| [Preprint] Kirsch, M., Mavroudi, M., Thiele, S., Lorenz, S., Tusa, L., Booysen, R., Herrmann, E., **Fatihi, A**., Möckel, R., Dittrich, T., and Gloaguen, R.: [Hyperspectral mineral mapping for underground mining](https://doi.org/10.5194/egusphere-egu23-11997), EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-11997 |
+|2023| [Submitted] Kirsch, M., Mavroudi, M., Thiele, S., Lorenz, S., Tusa, L., Booysen, R., Herrmann, E., **Fatihi, A**., Möckel, R., Dittrich, T., and Gloaguen, R.: [Underground hyperspectral outcrop scanning for automated mine-face mapping — the Lithium deposit of Zinnwald/Cínovec](), The Photogrammetric Record. |
 |-|-|
 | | |
 
