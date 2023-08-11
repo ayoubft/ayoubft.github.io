@@ -11,7 +11,7 @@ author_profile: true
 
 ### Theses
 
-|2023| Master thesis. [*Localisation, Back-Projection and Fusion of LWIR Hyperspectral Data from FTIR Imaging Sensors*](), School of Geomatics & Surveying Engineering, IAVH2, Rabat, Morocco -- HiF-HZDR, Freiberg, Germany, 108 pp.|
+|2023| Master thesis. [*Localisation, Back-Projection and Fusion of LWIR Hyperspectral Data from FTIR Imaging Sensors*](https://drive.google.com/file/d/1sQJYhNWqU0MGyYDA2F96onfsBXbZ88Od/view), School of Geomatics & Surveying Engineering, IAVH2, Rabat, Morocco -- HiF-HZDR, Freiberg, Germany, 108 pp. [[Get access here]](https://drive.google.com/file/d/1sQJYhNWqU0MGyYDA2F96onfsBXbZ88Od/view)|
 |-|-|
 | | |
 
