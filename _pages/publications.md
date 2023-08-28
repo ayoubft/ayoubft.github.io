@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-|2023| [Submitted] Kirsch, M., Mavroudi, M., Thiele, S., Lorenz, S., Tusa, L., Booysen, R., Herrmann, E., **Fatihi, A**., Möckel, R., Dittrich, T., and Gloaguen, R.: [Underground hyperspectral outcrop scanning for automated mine-face mapping — the Lithium deposit of Zinnwald/Cínovec](), The Photogrammetric Record. |
+|2023| Kirsch, M., Mavroudi, M., Thiele, S., Lorenz, S., Tusa, L., Booysen, R., Herrmann, E., **Fatihi, A**., Möckel, R., Dittrich, T., and Gloaguen, R.: [Underground hyperspectral outcrop scanning for automated mine-face mapping — the Lithium deposit of Zinnwald/Cínovec](http://doi.org/10.1111/phor.12457), The Photogrammetric Record. |
 |-|-|
 | | |
 
