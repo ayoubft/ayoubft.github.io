@@ -5,7 +5,7 @@ title: Compression of Geospatial Data with Varying Information Density (Code for
 
 ## Presentation
 
-<iframe width="220" height="110" src="https://www.youtube-nocookie.com/embed/CJ7KnQgIi7E?si=LV9HVGIzVdM537Gb&amp;start=25207;end=26536&rel=0" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="220" height="110" src="https://www.youtube-nocookie.com/embed/CJ7KnQgIi7E?si=LV9HVGIzVdM537Gb&amp;start=25207&end=26536&rel=0" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 
 [[Slides]](https://www.slideshare.net/AyoubFatihi2/ayoub-fatihis-presentation-for-code4earthecmwf-2023)
 
