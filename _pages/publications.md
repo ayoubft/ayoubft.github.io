@@ -11,7 +11,7 @@ author_profile: true
 
 ### Theses
 
-|2023| Master thesis. *Localisation, Back-Projection and Fusion of LWIR Hyperspectral Data from FTIR Imaging Sensors*, IAVH2, Morocco & HiF-HZDR, Germany, 108 pp. [[Slides]](https://www.slideshare.net/AyoubFatihi2/ayoub-fatihis-thesis-defense-presentation) [[Report]](https://www.slideshare.net/AyoubFatihi2/ayoub-fatihis-thesis-report-261200101)|
+|2023| Master thesis. *Localisation, Back-Projection and Fusion of LWIR Hyperspectral Data from FTIR Imaging Sensors*, IAVH2, Morocco & HiF-HZDR, Germany, 108 pp. [[Slides]](https://doi.org/10.6084/m9.figshare.24185763) [[Report]](https://doi.org/10.6084/m9.figshare.24185595)|
 |-|-|
 | | |
 
