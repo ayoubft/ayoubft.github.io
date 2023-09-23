@@ -8,6 +8,13 @@ redirect_from:
   - /get-inspired
 ---
 
+### [🗺️ Compression of Geospatial Data with Varying Information Density](./cfe-ecmwf-23)
+
+**(Code for Earth 2023 - ECMWF)**
+Use `xbitinfo` to compress geospatial data by preserving mutual bitwise information on a chunk-by-chunk basis.
+
+---
+
 ### [🌧️ Morocco's Precipitations Dashboard](./precip-morocco)
 
 Full stack application that represents a geoportal for exploration, visualization and analysis and forecasting rainfall data in Morocco.
@@ -20,8 +27,9 @@ Using CNN (convolutional neural networks) to map forest tree species in high res
 
 ---
 
-### [🏠 Integrating a module to 3d scan a house within the MapMint4ME android application (OSGeo - MapMint | GSoC 2021)](./gsoc-21)
+### [🏠 Integrating a module to 3d scan a house within the MapMint4ME android application](./gsoc-21)
 
+**(OSGeo - MapMint | GSoC 2021)**
 This project allows a minimalist 3D scan (taking multiple pictures, recording camera position, using opendrone map to rebuild the 3D scene) with the house faces (accessible/visible faces) then load it as georeferenced data with the database and being able to export the data back on MapMint for 3D viewing.
 
 ---
