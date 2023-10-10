@@ -10,7 +10,7 @@ redirect_from:
 
 Hey there 👋, I am Ayoub. I am a Geomatics & Surveying Engineer with a deep-seated curiosity for the world and a fervor for learning.
 
-I have dedicated my efforts to understanding and excelling in these research interests:
+My areas of expertise and research interests include:
 
 * Remote sensing: including hyperspectral imaging, object detection and 3D reconstruction
 * Machine learning and deep learning: for geo-spatial data, medical imaging and natural language processing
