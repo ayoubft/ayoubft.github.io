@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Ayoub Fatihi"
   avatar           : "me2023.jpg"
-  bio              : "Geomatics and Surveying Engineer"
-  bio2             : "Machine learning enthusiast"
+  bio              : "PhD Candidate"
+  bio2             : "Geomatics and Surveying Engineer"
+  bio3             : "Machine learning enthusiast"
   location         : "Earth"
   employer         :
   pubmed           : 
