@@ -7,6 +7,7 @@ author_profile: true
 
 | | |
 |-|-|
+|2023 | Ming Yin, Toufique A. Soomro, Fayyaz Ali Jandan, **Ayoub Fatihi**, Faisal Bin Ubaid, Muhammad Irfan, Ahmed J. Afifi, Saifur Rahman, Sergii Telenyk, Grzegorz Nowakowski *Dual-Branch U-Net Architecture for Retinal Lesions Segmentation on Fundus Image*, **IEEE access**, [10.1109/ACCESS.2023.3333364](https://doi.org/10.1109/ACCESS.2023.3333364) |
 |2023| Kirsch, M., Mavroudi, M., Thiele, S., Lorenz, S., Tusa, L., Booysen, R., Herrmann, E., **Fatihi, A**., Möckel, R., Dittrich, T., and Gloaguen, R.. *Underground hyperspectral outcrop scanning for automated mine-face mapping — the Lithium deposit of Zinnwald/Cínovec*, **The Photogrammetric Record**, [10.1111/phor.12457](https://doi.org/10.1111/phor.12457)|
 
 ### Theses
