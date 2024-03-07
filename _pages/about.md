@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hey there 👋, I am Ayoub. I am a Geomatics & Surveying Engineer with a deep-seated curiosity for the world and a fervor for learning.
+Hi there 👋, Ayoub here, always exploring and learning.
+
+Commencing my phd journey, I am exploring cutting-edge technologies. Capturing geological puzzles, especially fractures, using drones and lidar, and working on detecting them automatically.
 
 My areas of expertise and research interests include:
 
 * Remote sensing: including hyperspectral imaging, object detection and 3D reconstruction
-* Machine learning and deep learning: for geo-spatial data, medical imaging and natural language processing
-* Computing: high-performance computing and compression
+* Machine learning and deep learning: for geo-spatial and medical applications
+* Computing: high-performance computing
 * Software engineering: open-source and Python
 
 My true passion lies beyond, in the vast expanse of the cosmos. I'm an astronomy novice, constantly gazing at the stars, eager to unravel the mysteries of the universe.
