@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "DRT Conference 2024"
+title: "DRT Conference 2024 (Barcelona)"
 permalink: /drt24/
 author_profile: true
 ---
