@@ -5,8 +5,6 @@ permalink: /drt24/
 author_profile: true
 ---
 
-# DRT Barcelona 2024
-
 ## Poster
 
 [Download poster](..)
