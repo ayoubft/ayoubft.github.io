@@ -20,7 +20,7 @@ Table of contents:
 
 Download poster: [PDF (size)](..), [PDF (size)](..), [PPT](..)
 
-## Comparison
+## Interactive comparison
 
 <!-- Credits: https://img-comparison-slider.sneas.io/examples.html -->
 <script defer src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"></script>
