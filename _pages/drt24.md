@@ -18,7 +18,7 @@ Table of contents:
 
 ## Poster download
 
-Download poster: [PDF (size)](..), [PDF (size)](..), [PPT](..)
+Download poster: [PDF (30.5 MB)](../files/pdf/DRT24-A0.pdf), [PDF (4.1 MB)](../files/pdf/DRT24-A0-opt.pdf), [PPT](..)
 
 ## Interactive comparison
 

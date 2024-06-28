@@ -20,4 +20,4 @@ author_profile: true
 
 | | |
 |-|-|
-|2022| **Ayoub Fatihi**, Reda Yaagoubi. ***Conception optimale d’une ligne TGV a l’aide d’une approche SIG-AHP***, Revue AMETOP. [[pdf here]](../files/conception-lgv-ametop-fatihi2022.pdf) |
+|2022| **Ayoub Fatihi**, Reda Yaagoubi. ***Conception optimale d’une ligne TGV a l’aide d’une approche SIG-AHP***, Revue AMETOP. [[pdf here]](../files/pdf/conception-lgv-ametop-fatihi2022.pdf) |
