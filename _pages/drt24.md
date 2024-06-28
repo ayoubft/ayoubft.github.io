@@ -74,7 +74,7 @@ Download poster: [PDF (size)](..), [PDF (size)](..), [PPT](..)
     </svg>
 </img-comparison-slider>
 
-### Manet 
+### Manet (Multi-scale Attention Net)
 
 <img-comparison-slider class="slider-example-focus">
     <img slot="first" src="https://github.com/ayoubft/ayoubft.github.io/raw/master/_data/drt24/og1_3-manet.png" />
