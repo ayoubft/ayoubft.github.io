@@ -8,12 +8,12 @@ author_profile: true
 Table of contents:
 
 - [Poster download](#poster-download)
-- [Comparison](#comparison)
+- [Interactive comparison](#interactive-comparison)
   - [Ground truth](#ground-truth)
   - [DeeplabV3+](#deeplabv3)
   - [PAN (Pyramid Attention Network)](#pan-pyramid-attention-network)
   - [U-Net](#u-net)
-  - [Manet](#manet)
+  - [Manet (Multi-scale Attention Net)](#manet-multi-scale-attention-net)
 - [References](#references)
 
 ## Poster download
