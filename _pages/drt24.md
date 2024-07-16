@@ -5,20 +5,9 @@ permalink: /drt24/
 author_profile: true
 ---
 
-Table of contents:
-
-- [Poster download](#poster-download)
-- [Interactive comparison](#interactive-comparison)
-  - [Ground truth](#ground-truth)
-  - [DeeplabV3+](#deeplabv3)
-  - [PAN (Pyramid Attention Network)](#pan-pyramid-attention-network)
-  - [U-Net](#u-net)
-  - [Manet (Multi-scale Attention Net)](#manet-multi-scale-attention-net)
-- [References](#references)
-
 ## Poster download
 
-Download poster: [PDF (30.5 MB)](../files/pdf/DRT24-A0.pdf), [PDF (4.1 MB)](../files/pdf/DRT24-A0-opt.pdf), [PPT](..)
+Download poster: [PDF (30.5 MB)](../files/pdf/DRT24-A0.pdf), [PDF (4.1 MB)](../files/pdf/DRT24-A0-opt.pdf), [PPT](https://unils-my.sharepoint.com/:p:/g/personal/ayoub_fatihi_unil_ch/EbEqG_wtAZJGvxNP9ozopkcBkuNuRstNcU3a2xYdjAFzDQ?e=FBXIkU)
 
 ## Interactive comparison
 
