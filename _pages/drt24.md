@@ -7,7 +7,7 @@ author_profile: true
 
 ## Poster download
 
-Download poster: [PDF (30.5 MB)](../files/pdf/DRT24-A0.pdf), [PDF (4.1 MB)](../files/pdf/DRT24-A0-opt.pdf), [PPT](https://unils-my.sharepoint.com/:p:/g/personal/ayoub_fatihi_unil_ch/EbEqG_wtAZJGvxNP9ozopkcBkuNuRstNcU3a2xYdjAFzDQ?e=FBXIkU)
+Download poster: [PDF (30.5 MB)](../files/pdf/DRT24-A0.pdf), [PDF (1.4 MB)](../files/pdf/DRT24-A0-opt.pdf), [PPT](https://unils-my.sharepoint.com/:p:/g/personal/ayoub_fatihi_unil_ch/EbEqG_wtAZJGvxNP9ozopkcBkuNuRstNcU3a2xYdjAFzDQ?e=FBXIkU)
 
 ## Interactive comparison
 
