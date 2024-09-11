@@ -4,7 +4,7 @@ title: 3D modeling & VR immersive visit in the Topo departement 👓
 ---
 
 <center>
-<img src="../images/me-projet-3d-forum-21.jpg" width=600>
+<img src="https://raw.githubusercontent.com/ayoubft/ayoubft.github.io/master/images/me-projet-3d-forum-21.jpg" width=600>
 </center>
 
 &nbsp;
