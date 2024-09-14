@@ -6,11 +6,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Presentations"
+    url: /presentations/
+
   - title: "CV"
     url: /cv/
         
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Get Inspired [Projects]"
+  - title: "Projects"
     url: /projects/
