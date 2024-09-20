@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there 👋, Ayoub here, always exploring and learning.
 
-Commencing my phd journey, I am exploring cutting-edge technologies. Capturing geological puzzles, especially fractures, using drones and lidar, and working on detecting them automatically.
+As part of my PhD journey, I am diving into cutting-edge technologies. My research focuses on capturing geological puzzles, particularly fractures, using drones and LiDAR, and developing automated detection methods.
 
 My areas of expertise and research interests include:
 
@@ -19,6 +19,6 @@ My areas of expertise and research interests include:
 * Computing: high-performance computing
 * Software engineering: open-source and Python
 
-My true passion lies beyond, in the vast expanse of the cosmos. I'm an astronomy novice, constantly gazing at the stars, eager to unravel the mysteries of the universe.
+I also have a deep passion for the cosmos. As an astronomy enthusiast, I often find myself gazing at the stars, eager to unravel the mysteries of the universe.
 
-Beyond my technical interests, I'm always ready to lend a helping hand or offer support wherever it's needed. Whether it's collaborating on exciting projects, sharing knowledge, or contributing to meaningful initiatives, I'm here to make a positive impact.
+Beyond my technical pursuits, I’m always ready to lend a helping hand, collaborate on exciting projects, share knowledge, or contribute to meaningful initiatives. I’m here to make a positive impact wherever possible.
