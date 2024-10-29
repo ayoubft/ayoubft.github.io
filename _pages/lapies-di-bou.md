@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Lapies di Bou experiment"
-permalink: /drt24/
+permalink: /lapies-di-bou/
 author_profile: true
 ---
 
