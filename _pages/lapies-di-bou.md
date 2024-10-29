@@ -23,8 +23,8 @@ author_profile: true
 ### DeeplabV3+
 
 <img-comparison-slider class="slider-example-focus">
-    <img slot="first" src="../_data/lapies-di-bou/ortho-ldb-z1-deeplabpredic-only.png" />
-    <img slot="second" src="../_data/lapies-di-bou/ortho-ldb-z1-.png" />
+    <img slot="first" src="https://github.com/ayoubft/ayoubft.github.io/raw/master/_data/lapies-di-bou/ortho-ldb-z1-deeplabpredic-only.png" />
+    <img slot="second" src="https://github.com/ayoubft/ayoubft.github.io/raw/master/_data/lapies-di-bou/ortho-ldb-z1-.png" />
     <svg slot="handle" xmlns="http://www.w3.org/2000/svg" width="100" viewBox="-8 -3 16 6">
         <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#736D1A" vector-effect="non-scaling-stroke"></path>
     </svg>
